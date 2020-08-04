@@ -1,0 +1,4 @@
+{
+    "extends": "./cfg/tsconfig.base.json",
+    "include": ["add-ons", "@types"]
+}

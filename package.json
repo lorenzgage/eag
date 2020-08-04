@@ -1,0 +1,12 @@
+{
+  "name": "eag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lorenzgage/eag.git",
+  "author": "Eliot Gage <eliot.lorenzgage@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
